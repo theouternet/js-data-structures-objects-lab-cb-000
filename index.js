@@ -3,7 +3,7 @@
 let driver = {}
 
 function updateDriverWithKeyAndValue(driver, key, value) {
-  driver 
+  driver
 }
 
 function destructivelyUpdateDriverWithKeyAndValue(driver, key, value) {
